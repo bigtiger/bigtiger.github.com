@@ -16,7 +16,7 @@ html, body {
 }
  
 body {
-  background-color: #BF3604;
+  background-color: white;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -93,7 +93,7 @@ ul.posts {
 }
  
   .site .title a {
-    color: #FFF;
+    color: #a00;
     text-decoration: none;
   }
   
@@ -156,13 +156,13 @@ ul.posts {
   
   #post pre {
     border: 1px solid #ddd;
-    background-color: #BF3604;
+    background-color: #eef;
     padding: 0 .4em;
   }
   
   #post code {
     border: 1px solid #ddd;
-    background-color: #BF3604;
+    background-color: #eef;
     font-size: 95%;
     padding: 0 .2em;
   }
