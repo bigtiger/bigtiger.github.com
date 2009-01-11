@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Testing
+title: January RubyJax
 ---
 
 h1. {{ page.title }}
 
 p(meta). 2009 Jan 11 - Jacksonville Beach, FL
 
-I will be speaking this month at RubyJax, the monthly meeting of Jacksonville Florida's Ruby/Rails community. Details below:
+I will be speaking this month at "RubyJax":http://rubyjax.com, the monthly meeting of Jacksonville Florida's Ruby/Rails community. Details below:
 
 * who: Big Tiger
 * where: Navigator Coffee Squadron, 7643 Gate Pkwy, Jacksonville, FL 32256 (904) 928-0048
