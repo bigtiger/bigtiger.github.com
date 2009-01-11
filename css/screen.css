@@ -93,7 +93,7 @@ ul.posts {
 }
  
   .site .title a {
-    color: #a00;
+    color: #FFF;
     text-decoration: none;
   }
   
@@ -156,13 +156,13 @@ ul.posts {
   
   #post pre {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: #BF3604;
     padding: 0 .4em;
   }
   
   #post code {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: #BF3604;
     font-size: 95%;
     padding: 0 .2em;
   }
