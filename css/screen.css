@@ -16,7 +16,7 @@ html, body {
 }
  
 body {
-  background-color: #ffa;
+  background-color: #ffd;
   background: url(http://colourlovers.com.s3.amazonaws.com/images/patterns/69/69479.png);
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
@@ -81,7 +81,7 @@ ul.posts {
  
 .site {
   padding: 10px;
-  background-color: #ffa;
+  background-color: #ffd;
   font-size: 110%;
   text-align: justify;
   width: 40em;
