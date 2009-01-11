@@ -81,6 +81,7 @@ ul.posts {
  
 .site {
   padding: 40px;
+  border: 2px solid black;
   background-color: #ffd;
   font-size: 110%;
   text-align: justify;
