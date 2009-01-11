@@ -7,4 +7,4 @@ h1. {{ page.title }}
 
 p(meta). 2009 Jan 10 - Jacksonville Beach, FL
 
-Ubiquitous blog about how I should blog more but haven't, only this time it's different because I found a way to trick myself into actually doing it.
+Ubiquitous blog about how I should blog more but haven't in the past, only this time it's different because I found a way to trick myself into actually doing it.
