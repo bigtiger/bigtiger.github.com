@@ -1,0 +1,10 @@
+-
+layout: post
+title: January RubyJax
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Jan 10 - Jacksonville Beach, FL
+
+This month at "RubyJax":http://www.rubyjax.com I'll be presenting on ThinkingSphinx. Scotland on Rails accepted my proposal for a talk on the subject and this will be a first draft/practice of the talk to fine tune it for Scotland.
