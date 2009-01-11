@@ -120,8 +120,8 @@ ul.posts {
  
   .site .footer {
     font-size: 80%;
-    color: #d40;
-    border-top: 4px solid #eee;
+    color: #666;
+    border-top: 4px solid #d40;
     margin-top: 2em;
     overflow: hidden;
   }
