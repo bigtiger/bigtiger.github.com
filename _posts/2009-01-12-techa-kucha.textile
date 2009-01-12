@@ -1,0 +1,16 @@
+---
+layout: post
+title: Techa Kucha
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Jan 12 - Jacksonville Beach, FL
+
+I have been working to pull together a January meeting of "Refresh Jacksonville":http://www.refreshjacksonville.org/ attempting to use a new format called "Pecha Kucha":http://en.wikipedia.org/wiki/Pecha_Kucha which translates in japanese to "the sound of conversation". The format is very specific each speaker submits 20 slides, each slide is displayed on screen for exactly 20 seconds. The result is a focused 6 minute and 40 second talk with no filler needed.
+
+Consider this a call for proposals. We are looking for at least three speakers. Topics should be creative/technical in nature. Anything from a tour of your latest project to a description of how you set up a kick ass DJ setup for the christmas party this year. Perhaps you have a set of logos you'd like to discuss the process you've followed to arrive at the final designs. Just maybe you've created a side business where you wear t-shirts for a living, describe how the idea came about and how you sold it.
+
+In my mind this is about lowering the barrier to entry. Lots of people are inexperienced at public speaking and find it hard to break through. This is a little over six minutes. You don't have to carry the meeting on your own. It is also about constraining speakers who may otherwise be long winded or feel the need to add filler to make their talk long enough.
+
+What would you like to talk about? Hit me up at bigtiger@hashrocket.com or on twitter and we'll get you signed up.
