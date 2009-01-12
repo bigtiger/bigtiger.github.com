@@ -11,7 +11,9 @@ As the "Integrity homepage":http://integrityapp.com says it *is* ridiculously ea
 
 <code>
   $ gem sources -a http://gems.github.com
+  
   $ sudo gem install foca-integrity
+  
   $ integrity install /var/www/integrity
 </code>
 
