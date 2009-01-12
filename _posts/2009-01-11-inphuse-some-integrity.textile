@@ -1,0 +1,36 @@
+---
+layout: post
+title: Setting up Integrity Continuous Integration Server with Phusion Passenger (mod_rails/mod_rack)
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Jan 11 - Jacksonville Beach, FL
+
+As the "Integrity homepage":http://integrityapp.com says it *is* ridiculously easy to set up.
+
+<code>
+  $ gem sources -a http://gems.github.com
+  $ sudo gem install foca-integrity
+  $ integrity install /var/www/integrity
+</code>
+
+Add to /etc/apache2/apache2.conf
+
+<code>
+  LoadModule passenger_module /usr/lib/ruby/gems/1.8/gems/passenger-2.0.4/ext/apache2/mod_passenger.so
+  PassengerRoot /usr/lib/ruby/gems/1.8/gems/passenger-2.0.4
+  PassengerRuby /usr/bin/ruby1.8
+  PassengerDefaultUser integral
+</code>
+
+We're using a custom user named 'integral', a great idea but, not required.
+
+Add to a file in /etc/apache2/sites-enabled
+
+<code>
+  <VirtualHost *:80>
+    ServerName builder.yourdomain.com
+    DocumentRoot /var/integrity/public
+  </VirtualHost>
+</code>
