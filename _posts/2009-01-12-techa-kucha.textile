@@ -7,6 +7,8 @@ h1. {{ page.title }}
 
 p(meta). 2009 Jan 12 - Jacksonville Beach, FL
 
+*Update:* We have set a date of Thursday, January 29th. The meeting will run from 7:00 pm to 9:00 pm.
+
 I have been working to pull together a January meeting of "Refresh Jacksonville":http://www.refreshjacksonville.org/ attempting to use a new format called "Pecha Kucha":http://en.wikipedia.org/wiki/Pecha_Kucha which translates in japanese to "the sound of conversation". The format is very specific each speaker submits 20 slides, each slide is displayed on screen for exactly 20 seconds. The result is a focused 6 minute and 40 second talk with no filler needed.
 
 Consider this a call for proposals. We are looking for at least three speakers. Topics should be creative/technical in nature. Anything from a tour of your latest project to a description of how you set up a kick ass DJ setup for the christmas party this year. Perhaps you have a set of logos you'd like to discuss the process you've followed to arrive at the final designs. Just maybe you've created a side business where you wear t-shirts for a living, describe how the idea came about and how you sold it.
