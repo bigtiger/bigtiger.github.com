@@ -21,4 +21,4 @@ In no particular order.
 
 * *Sandro Turriate* - Bookmarklets, no relation to Chicklets
 * *Steven Bristol* - Hacking your Juice Box
-* *Corey Grusden* - Fight the power! My personal experience in fighting the man.
+* *Corey Grusden* - Fight the cubes!
