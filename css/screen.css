@@ -17,7 +17,7 @@ html, body {
  
 body {
   background-color: #fff;
-  background: url(http://colourlovers.com.s3.amazonaws.com/images/patterns/69/69479.png);
+  background: url(/images/bg.png);
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
