@@ -24,3 +24,4 @@ In no particular order.
 * *Sandro Turriate* - Bookmarklets, no relation to Chicklets
 * *Steven Bristol* - Hacking your Juice Box
 * *Corey Grusden* - Fight the cubes!
+* *Jon Larkowski* - The way I Getting Things Done
