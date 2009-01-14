@@ -1,0 +1,24 @@
+---
+layout: post
+title: Mission: Scotland on Rails
+---
+
+*Note: Cross-posted to the "Hashrocket blog":http://www.hashrocket.com/blog*
+
+h1. {{ page.title }}
+
+p(meta). 2009 Jan 14 - Jacksonville Beach, FL
+
+h2. Scotland On Rails
+
+h3. March 26 - 28
+
+h3. Edinburgh, Scotland
+
+Paul, "Graeme Mathieson":http://woss.name/, and "Alan Francis":http://alancfrancis.com/, the folks behind "Scotland on Rails":http://www.scotlandonrails.com have accepted my proposal to present on the topic of Geospatial searching with "Thinking Sphinx":http://ts.freelancing-gods.com/. As is the standard for regional conferences the organizers have only been able to cover travel expenses for the keynote speakers. "Hashrocket":http://hashrocket.com has stepped up and agreed to cover my expenses, another perk for working for the "Happiest Little Rails Shop in Florida":http://flickr.com/photos/jremsikjr/3024776019/.
+
+My thanks to the guys for putting together "a terrific group of international rubyists":http://scotlandonrails.com/schedule. The keynote speakers are "Marcel Molina Jr":http://www.vernix.org/marcel/ and "Michael Feathers":http://www.michaelfeathers.com/. Sessions are also being led by "Dave Thomas":http://pragdave.pragprog.com/, "Yehuda Katz":http://yehudakatz.com/, "Jim Weirich":http://onestepback.org/, and "Scott Chacon":http://jointheconversation.org/. I am joined by some good friends as well in Steven Bristol of "LessEverything":http://www.lesseverything.com, Kevin Barnes of "OGC Consulting":http://ogtastic.com/, and "Pat Maddox":http://evang.eli.st/blog.
+
+"Chad Fowler":http://www.chadfowler.com and Marcel Molina are hosting a charity tutorial session the day preceding the conference.
+
+"EngineYard":http://www.engineyard.com has assumed the role of platinum sponsor. These companies are also "elc technologies":http://www.elctech.com/, "Rubaidh":http://rubaidh.com, "Mere Complexities":http://merecomplexities.com, "Xeriom Networks":http://xeriom.net. Sponsorship opportunities for the conference are still available.
