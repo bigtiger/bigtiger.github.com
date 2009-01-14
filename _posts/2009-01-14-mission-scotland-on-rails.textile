@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mission: Scotland on Rails
+title: Mission Scotland on Rails
 ---
 
 *Note: Cross-posted to the "Hashrocket blog":http://www.hashrocket.com/blog*
