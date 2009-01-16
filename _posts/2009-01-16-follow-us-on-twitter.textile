@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 2009 Jan 16 - Jacksonville Beach, FL
 
-We're all fans of "Twitter":http://twitter.com/ at Hashroket. You can follow the "corporate account":http://twitter.com/hashrocket or any of us individually:
+We're all fans of "Twitter":http://twitter.com/ at Hashrocket. You can follow the "corporate account":http://twitter.com/hashrocket for 'official news' or any of us individually for the inside scoop:
 
 * "Obie Fernandez":http://twitter.com/obie
 * "Desi McAdam":http://twitter.com/desi
@@ -28,3 +28,4 @@ We're all fans of "Twitter":http://twitter.com/ at Hashroket. You can follow the
 * "Wilson Bilkovich":http://twitter.com/defiler
 * "Jacqui Maher":http://twitter.com/jacqui
 
+Cheers!
