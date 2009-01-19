@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Estate tops this weekends stories
+title: Real Estate Tops This Weekends Stories
 ---
 
 h1. {{ page.title }}
