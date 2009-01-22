@@ -25,3 +25,4 @@ In no particular order.
 * *Steven Bristol* - Hacking your Juice Box
 * *Corey Grusden* - Fight the cubes!
 * *Jon Larkowski* - The Way I Getting Things Done
+* *Cayce Balara* - CSS Sprites
