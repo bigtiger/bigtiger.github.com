@@ -1,0 +1,32 @@
+h1. RefreshJacksonville: Techa Kucha follow-up
+
+The last refresh meeting was a special one. From great "no frills talks":http://blog.divergentsoftware.com/2009/01/introduce-speak-quickly-to-point-sit.html to
+the entire group busting out in to "Happy Birthday" in celebration of the birthday of
+"Sandro Turriate":http://turriate.com. 
+
+"RefreshJacksonville":http://refreshjacksonville.org has been running for around two years after its
+birth from conversations at "nGen Works":http://ngenworks.com, specifically "Joey Marchy":http://www.ngenworks.com/team/joey. The
+idea may not have been unique, in fact there "Refresh":http://www.refreshingcities.org/ is a movement to
+get creative types together and share their passions. 
+
+Sharing passion is precisely why the last RefreshJacksonville worked.
+While watching the presentations you could feel the energy. These were
+the topics on which people spent their free time toiling and tinkering.
+
+The meeting ended on an announcement from Joey that he and nGen Works are giving
+RefreshJacksonville to the community to encourage its growth and get some
+new energy in the organization. Anyone is free to schedule a meeting or 
+event and nGen Works will post and publicize the event.
+
+In talking to "Carl Smith":http://www.ngenworks.com/team/joey the most successful events have had broad topics
+that appeal to wider audiences. The events are not necessarily technical.
+
+Brainstorming ideas the following ideas have bubbled up:
+
+* DemoCamp - A time limited presentation on a project or product you've worked on, produced, or have an interest.
+* StudioNight - RefreshJax's host is "Paul Figura":http://PaulFigura.com and the space offers a perfect environment for people of all abilities to experiment with photography equipment.
+* Web Video Publishing - We have some excellent resources in the North and Central Florida areas.
+
+What ideas do you have? What would you like to see? A different format, topic, presenter?
+
+Talk to me "bigtiger@hashrocket.com":mailto:bigtiger@hashrocket.com
