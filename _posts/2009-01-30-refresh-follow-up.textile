@@ -1,0 +1,12 @@
+---
+layout: post
+title: RefreshJax Follow-up
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Jan 30 - Jacksonville Beach, FL
+
+The last refresh meeting was a special one. From great "no frills talks":http://blog.divergentsoftware.com/2009/01/introduce-speak-quickly-to-point-sit.html to
+the entire group busting out in to "Happy Birthday" in celebration of the birthday of
+"Sandro Turriate":http://turriate.com.
