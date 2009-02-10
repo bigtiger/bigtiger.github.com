@@ -1,0 +1,30 @@
+---
+layout: post
+title: March RefreshJax: DemoCamp
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Feb 09 - Jacksonville Beach, FL
+
+Mark your calendars, the March edition of RefreshJax is scheduled and we want you to answer this question: What are you doing?
+
+No, we're not presenting "Twitter":http://twitter.com. We want to know what you're working on! We'll give you five minutes, you give us a demo of what you're working on recently. No slides? No problem! Bring up you application, artwork, photos or music.
+
+Have you created an awesome new product feature? Designed a kick-ass logo? Or created an earth-shattering remix? Share it with us! we're looking for variety too. Audio, Video, Photos, Web, Textile, or Print all are welcome. 
+
+h3. Rules:
+
+* You should have participated in creating what you demo.
+* We'll give you five minutes.
+* You give us a look at your creations, your passion.
+
+We would love to see some new faces up in front of the group but, everyone is welcome to speak. 
+
+If you have special needs, outside of a projector and/or a laptop, let us know and we will be as accommodating as possible.
+
+P.S. Remember refresh is always BYOB.
+
+h3. The deets:
+
+p. March 5th, 7:00 pm – 9:00 pm 1803 Hendricks Avenue (32207)
