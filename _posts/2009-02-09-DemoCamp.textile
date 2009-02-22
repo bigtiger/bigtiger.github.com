@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March RefreshJax: DemoCamp
+title: March RefreshJax - DemoCamp
 ---
 
 h1. {{ page.title }}
