@@ -1,0 +1,19 @@
+---
+layout: post
+title: Frozen Gems
+---
+
+h1. {{ page.title }}
+
+h2. DRAFT
+
+p(meta). 2009 Feb 21 - Madison, WI
+
+We came, we saw, we borrowed footwear, and we plunged! 
+
+!http://bigtiger.github.com/images/post-plunge.jpg!
+
+Desi, Lark, and myself all dove into a frozen-over lake in Wisconsin, in February.
+
+Lark and I had two motives for participating in the "2009 Polar Plunge for Special Olympics":http://www.specialolympicswisconsin.org/polar_plunge.asp. One reason for plunging was to raise money for charity and we succeeded in raising over $1500 for nearly 10,000 athletes with cognitive disabilities. The secondary motivation was to share our hometown of Madison, WI with our friends and co-workers.
+
