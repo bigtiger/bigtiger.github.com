@@ -13,7 +13,7 @@ No, we're not presenting "Twitter":http://twitter.com. We want to know what you'
 
 Have you created an awesome new product feature? Designed a kick-ass logo? Or created an earth-shattering remix? Share it with us! we're looking for variety too. Audio, Video, Photos, Web, Textile, or Print all are welcome. 
 
-h3. Rules:
+h2. Rules:
 
 * You should have participated in creating what you demo.
 * We'll give you five minutes.
@@ -25,6 +25,6 @@ If you have special needs, outside of a projector and/or a laptop, let us know a
 
 P.S. Remember refresh is always BYOB.
 
-h3. The deets:
+h2. The deets:
 
 p. March 5th, 7:00 pm - 9:00 pm 1803 Hendricks Avenue (32207)
