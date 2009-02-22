@@ -5,8 +5,6 @@ title: Frozen Gems
 
 h1. {{ page.title }}
 
-h2. DRAFT
-
 p(meta). 2009 Feb 21 - Madison, WI
 
 We came, we saw, we borrowed footwear, and we plunged! 
