@@ -1,0 +1,14 @@
+---
+layout: post
+title: Finally, A Working Printer
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Aug 03 - Jacksonville Beach, FL
+
+p. Since we moved to Jacksonville Beach from Madison, WI my home IT infrastructure has been a house of cards. One that Comcast and others had routinely toppled (Comcast is awful, etc). In mid-July we closed on the deal on the house we had been renting for a year. Now that we own the place I've been looking around at what we've got and realized I had not really settled from the move. The first improvement is not related to the house but, we got "U-Verse":http://uverse.att.com from AT&T and sorted out internet access issues that have plagued us.
+
+p. We have had a laser printer which we were very happy with for some time. It is a "Samsung ML-1210":http://www.amazon.com/Samsung-ML1210XAA-ML-1210-Laser-Printer/dp/B00005MOTM black and white laser printer whose only real problem had been it's age and lack of support for Mac. This wasn't too much of a problem as we had a workaround piping documents through a Dell Windows box I had laying around. After the last bit of Microsoft hardware, outside of the XBox360, had recently coughed up a hard-drive I decided to dig around for a more direct solution.
+
+p. As it turns out, Samsung offers drivers back to OS 8 but only as far forward as 10.3. Long story short, after a Stuffit Expander download and extraction of the Mac OS 10.3 drivers available from the "*global* download site":http://www.samsung.com/us/support/download/supportDown.do?group=&type=&subtype=&model_nm=ML-1210&language=&dType=G&mType=DR&vType=L&disp_nm=ML-1210. Still no support for network printing but, it's an improvement.
