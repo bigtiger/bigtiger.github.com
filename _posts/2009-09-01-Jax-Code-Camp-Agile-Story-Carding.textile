@@ -1,0 +1,24 @@
+---
+layout: post
+title: Jax CodeCamp - Agile Story Carding
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Sept 1 - Labadee, Haiti
+
+p. This is a brief post, primarily, to post my slides from this past weekends Jacksonville CodeCamp 2009. Hats off to the organizers, everything went smoothly and UNF is a great venue for this type of event. I'll try to detail all my thoughts in a future post. I met great people like Ryan Parsley and Gabor Liptak (sp?), and had an enjoyable time.
+
+p. I simply ran out of time getting this out the door before my trip, but, better late than never.
+
+p. Big thanks to Desi for her input on this presentation.
+
+h3. Agile Story Carding at JaxCodeCamp 2009
+
+p. "Keynote":http://bigtiger.github.com/files/AgileStoryCarding.key
+
+p. "Powerpoint":http://bigtiger.github.com/files/AgileStoryCarding.ppt
+
+h2. See you on the other side.
+
+p. I'm unavailable for a bit longer, I'll catch up with folks on Labor Day.
