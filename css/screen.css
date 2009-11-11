@@ -93,10 +93,13 @@ ul.posts {
   font-weight: bold;
   margin-bottom: 2em;
 }
- 
+
+  .site .title h1 {
+    font-size: 200%;
+  }
+
   .site .title a {
     text-decoration: none;
-    font-size: 200%;
   }
   
   .site .title a:hover {
