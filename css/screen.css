@@ -96,6 +96,7 @@ ul.posts {
  
   .site .title a {
     text-decoration: none;
+    font-size: 200%;
   }
   
   .site .title a:hover {
