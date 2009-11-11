@@ -213,10 +213,10 @@ ul.posts {
 }
 
 .tk-carbon-type {
-  font-size: 300%;
+  font-size: 150%;
 }
 
 .tk-carbon-type .dropped {
   position: relative;
-  top: .75em;
+  top: .25em;
 }
