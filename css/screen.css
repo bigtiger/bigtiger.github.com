@@ -202,3 +202,22 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+/*****************************************************************************/
+/*
+/* Typekit Fonts
+/*
+/*****************************************************************************/
+.tk-steinzeit {
+  font-size: 200%;
+}
+
+.tk-carbon-type {
+  font-size: 300%;
+}
+
+.tk-carbon-type .dropped {
+  font-size: 300%;
+  position: relative;
+  top: .75em;
+}
