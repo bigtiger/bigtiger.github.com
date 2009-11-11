@@ -44,7 +44,7 @@ a:hover {
 }
  
 a:visited {
-  color: #653;
+  color: #000;
 }
  
 table {
@@ -68,7 +68,7 @@ ul.posts {
   }
  
   ul.posts span {
-    color: #f60;
+    color: #a00;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
@@ -89,7 +89,7 @@ ul.posts {
 }
  
 .title {
-  color: #a00;
+  color: #000;
   font-weight: bold;
   margin-bottom: 2em;
 }
@@ -103,7 +103,7 @@ ul.posts {
   }
  
   .site .title a.extra {
-    color: #f60;
+    color: #a00;
     text-decoration: none;
     margin-right: 1em;
   }
@@ -113,7 +113,7 @@ ul.posts {
   }
  
   .site .meta {
-    color: #f60;
+    color: #a00;
   }
  
   .site .footer {
