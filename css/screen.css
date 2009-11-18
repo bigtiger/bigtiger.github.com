@@ -207,15 +207,6 @@ ul.posts {
 /* Typekit Fonts
 /*
 /*****************************************************************************/
-.tk-steinzeit {
-  font-size: 200%;
-}
-
-.tk-carbon-type {
+.tk-share-regular {
   font-size: 150%;
-}
-
-.tk-carbon-type .dropped {
-  position: relative;
-  top: .30em;
 }
