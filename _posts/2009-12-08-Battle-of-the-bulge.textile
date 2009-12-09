@@ -1,0 +1,16 @@
+---
+layout: post
+title: Battle of the Bulge
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 December 8 - Jacksonville Beach, FL
+
+p. "Veez":http://twitter.com/veezus and "Shay Arnett":http://twitter.com/shayarnett decided to try to motivate each other to workout by having a weight-off. Weigh-ins occur each week with the 'Winner' being the person who has lost the most weight by March 1st, 2010.
+
+p. I was invited to participate and agreed, as well as Jen. It became apparent soon after, when I had trouble finding a scale to accomodate my weight, that I had a competitive advantage. A sedentary lifestyle coupled with poor eating habits has led to my current weight situation. I have a rough idea but, no good data due to the aforementioned scale issue. Amazon is delivering to me a "high-capacity scale":http://www.amazon.com/gp/product/B0014ZXWBE from "Escali":http://www.amazon.com/s/ref=nb_ss?url=search-alias%3Dhpc&field-keywords=Escali&x=0&y=0. After it arrives I'll post my starting weight and follow up with updates.
+
+p. "Allan Branch":http://twitter.com/lessallan reminded me about "Lose it, or lose it":http://loseitorloseit.com/ by "Randy Schmidt":http://loseitorloseit.com/r38y which uses  the support of your friends, and the risk of losing your own cash as motivation to encourage your weight loss. Not sure this site is for me but, it's a fun idea if that motivates you.
+
+p. In the past, plans from Weight Watchers and Slim-Fast have worked for me. My preferred mode of exercise is my bicycle. The eventual downfall is I either get bored or lazy. In a sprint competition like this and given a higher percentage of body fat to lose I think I am in good shape to crush the others, and I don't mean by sitting on them.
