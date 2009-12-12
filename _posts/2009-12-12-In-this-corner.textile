@@ -1,0 +1,16 @@
+---
+layout: post
+title: In this corner...
+---
+
+h1. {{ page.title }}
+
+p(meta). 2009 Dec 12 - Jacksonville Beach, FL
+
+Finally got my <a href="http://www.amazon.com/gp/product/B001UQ70OM?ie=UTF8&tag=bitisbl-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001UQ70OM">Escali (high capacity) Scale</a><img src="http://www.assoc-amazon.com/e/ir?t=bitisbl-20&l=as2&o=1&a=B001UQ70OM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> in the mail. Weighed in at *343 lbs*.
+
+Additional motivation came in the form of a trip to the clinic for a persistent cough. Doctor was less concerned about the "asthmatic bronchitis" (read: pnuemonia) than my blood pressure. So, back on meds for the blood pressure and a new goal to get off of them. Not that I achieved that before, rather I just quit taking them.
+
+Life stresses not helping my blood pressure either, but, when asked if I thought things we going to settle down anytime soon I had to answer "no".
+
+Time to lose that competitive advantage for the weight loss competition and get in to ass-kicking shape.
