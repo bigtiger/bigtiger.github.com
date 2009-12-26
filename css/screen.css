@@ -119,6 +119,12 @@ ul.posts {
   .site .meta {
     color: #a00;
   }
+
+  .site .update {
+    background-color: #DDD;
+    border: #A00 3px solid;
+    padding: 2px 5px;
+  }
  
   .site .footer {
     font-size: 80%;
