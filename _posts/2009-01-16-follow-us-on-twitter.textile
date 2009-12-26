@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 2009 Jan 16 - Jacksonville Beach, FL
 
-p(update). Since this post "Twitter":http://twitter.com has released list functionality. You can find all the rocketeers "@hashrocket/rocketeers":http://www.twitter.com/hashrocket/rocketeers, just the developers "@hashrocket/developers":http://www.twitter.com/hashrocket/developers, or just the designers "@hashrocket/designers":http://www.twitter.com/hashrocket/designers.
+p(update). *Update:* Since this post "Twitter":http://twitter.com has released list functionality. You can find all the rocketeers "@hashrocket/rocketeers":http://www.twitter.com/hashrocket/rocketeers, just the developers "@hashrocket/developers":http://www.twitter.com/hashrocket/developers, or just the designers "@hashrocket/designers":http://www.twitter.com/hashrocket/designers.
 
 p. We're all fans of "Twitter":http://twitter.com/ at Hashrocket. You can follow the "corporate account":http://twitter.com/hashrocket for 'official news' or any of us individually for the inside scoop:
 
