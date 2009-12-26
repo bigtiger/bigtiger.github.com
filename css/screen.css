@@ -3,82 +3,82 @@
 /* Common
 /*
 /*****************************************************************************/
- 
+
 /* Global Reset */
- 
+
 * {
   margin: 0;
   padding: 0;
 }
- 
+
 html, body {
   height: 100%;
 }
- 
+
 body {
   background-color: #fff;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
- 
+
 h1, h2, h3, h4, h5, h6 {
   color: #a00;
   font-size: 100%;
 }
- 
+
 h1 {
   margin-bottom: 1em;
 }
- 
+
 p {
   margin: 1em 0;
 }
- 
+
 a {
   color: #00a;
 }
- 
+
 a:hover {
   color: black;
 }
- 
+
 a:visited {
   color: #000;
 }
- 
+
 table {
   font-size: inherit;
   font: 100%;
 }
- 
+
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
- 
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
- 
-  ul.posts li {
-    line-height: 1.75em;
-  }
- 
-  ul.posts span {
-    color: #a00;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-  }
- 
+
+ul.posts li {
+   line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #a00;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
 /*****************************************************************************/
 /*
 /* Site
 /*
 /*****************************************************************************/
- 
+
 .site {
   padding: 40px;
   font-size: 110%;
@@ -87,72 +87,72 @@ ul.posts {
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
- 
+
 .title {
   color: #000;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
-  .site .title h1 {
-    font-size: 200%;
-  }
+.site .title h1 {
+  font-size: 200%;
+}
 
-  .site .title a {
-    text-decoration: none;
-  }
-  
-  .site .title a:hover {
-    color: black;
-  }
- 
-  .site .title a.extra {
-    color: #a00;
-    text-decoration: none;
-    margin-right: 1em;
-  }
-  
-  .site .title a.extra:hover {
-    color: black;
-  }
- 
-  .site .meta {
-    color: #a00;
-  }
+.site .title a {
+  text-decoration: none;
+}
 
-  .site .update {
-    background-color: #DDD;
-    border: #A00 3px solid;
-    padding: 2px 5px;
-  }
- 
-  .site .footer {
-    font-size: 80%;
-    color: #666;
-    border-top: 4px solid #a00;
-    margin-top: 2em;
-    overflow: hidden;
-  }
-  
-    .site .footer .contact {
-      float: left;
-      margin-right: 3em;
-    }
-    
-      .site .footer .contact a {
-        color: #653;
-        font-weight: bold;
-      }
-    
-    .site .footer .rss {
-      margin-top: 1.1em;
-      float: right;
-    }
-    
-      .site .footer .rss img {
-        border: 0;
-      }
-      
+.site .title a:hover {
+  color: black;
+}
+
+.site .title a.extra {
+  color: #a00;
+  text-decoration: none;
+  margin-right: 1em;
+}
+
+.site .title a.extra:hover {
+  color: black;
+}
+
+.site .meta {
+  color: #a00;
+}
+
+.site .update {
+  background-color: #DDD;
+  border: #A00 3px solid;
+  padding: 2px 5px;
+}
+
+.site .footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #a00;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #653;
+  font-weight: bold;
+}
+
+.site .footer .rss {
+  margin-top: 1.1em;
+  float: right;
+}
+
+.site .footer .rss img {
+  border: 0;
+}
+
 .attribution {
   padding: 0;
   font-size: 80%;
@@ -166,47 +166,43 @@ ul.posts {
 /* Posts
 /*
 /*****************************************************************************/
- 
-#post {
-  
+
+/* standard */
+
+#post pre {
+  border: 1px solid #ddd;
+  padding: 0 .4em;
 }
- 
-  /* standard */
-  
-  #post pre {
-    border: 1px solid #ddd;
-    padding: 0 .4em;
+
+#post code {
+  border: 1px solid #ddd;
+  font-size: 95%;
+  padding: 0 .2em;
+}
+
+  #post pre code {
+    border: none;
   }
-  
-  #post code {
-    border: 1px solid #ddd;
-    font-size: 95%;
-    padding: 0 .2em;
-  }
-  
-    #post pre code {
-      border: none;
-    }
-    
-  /* terminal */
-  
-  #post pre.terminal {
-    border: 1px solid black;
-    background-color: #333;
-    color: white;
-  }
-  
-  #post pre.terminal code {
-    background-color: #333;
-  }
- 
+
+/* terminal */
+
+#post pre.terminal {
+  border: 1px solid black;
+  background-color: #333;
+  color: white;
+}
+
+#post pre.terminal code {
+  background-color: #333;
+}
+
 #related {
-  margin-top: 2em;
+margin-top: 2em;
 }
- 
-  #related h2 {
-    margin-bottom: 1em;
-  }
+
+#related h2 {
+  margin-bottom: 1em;
+}
 
 /*****************************************************************************/
 /*
