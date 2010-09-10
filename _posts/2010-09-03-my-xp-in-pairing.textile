@@ -1,0 +1,54 @@
+---
+layout: post
+title: My Experiences In Pair Programming
+---
+
+h1. {{ page.title }}
+
+p(meta). 2010 Sept 9 - Chicago, IL
+
+p. A chance conversation over twitter with @mclazarus got me thinking about what I know, and don't, know about Pair Programming.  The following is the result of that thought process. *Cue Law and Order noise*
+
+h2. Configurations
+
+h3. Two People at One Desk
+
+* One Screen, two keyboards/mice
+* One screen, one keyboard/mouse, HIDs passed back and forth
+* Two screens, two keyboards/mice, mirrored or shared display with both developers looking at the same visuals
+
+h3. Two people at different desks in same room/building
+
+* Two screens, two keyboards/mice, mirrored or shared display with both developers looking at the same visuals
+
+h3. Two people geographically separated
+
+* Two computers remotely connected with some screen sharing technology (From: Screen/Tmux to YuuGuu to SubethaEdit to iChat
+
+h2. Deal killers
+
+h3. People
+
+* Have to give it an honest shot.
+* Have to be able to communicate.
+
+h2. Takeaways
+
+p. Successful pairing is less about how you accomplish it so long as you respect those things called out in the agile manifesto.
+
+h2. Deal killers
+
+h3. People
+
+* Have to give it an honest shot.
+* Have to be able to communicate.
+
+h2. Takeaways
+
+p. Successful pairing is less about how you accomplish it so long as you respect those things called out in the agile manifesto.
+
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+
