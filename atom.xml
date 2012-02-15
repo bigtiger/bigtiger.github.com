@@ -10,7 +10,7 @@ layout: nil
  <id>http://bigtiger.github.com/</id>
  <author>
    <name>Jim 'Big Tiger' Remsik</name>
-   <email>bigtiger@hashrocket.com</email>
+   <email>jim@bendyworks.com</email>
  </author>
  
  {% for post in site.posts %}
